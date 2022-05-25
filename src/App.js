@@ -119,7 +119,7 @@ function App() {
                                 DataTable Example
                             </div>
                             <div class="card-body">
-                                <table id="datatablesSimple">
+                                <table id="datatablesSimple" className="table table-bordered">
                                     <thead>
                                         <tr>
                                             <th>Name</th>
